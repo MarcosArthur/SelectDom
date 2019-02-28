@@ -1,4 +1,4 @@
 # SelectDom
 Um dos aspectos mais práticos de se usar no jQuery é a simplicidade de selecionar elementos do DOM (Document Object Model), porém com a grande evolução do JavaScript, e com poucas atualizações dessa incrível biblioteca, é possível adquirir conhecimentos sobre JavaScript sem se quer utilizar a mesma, no início foi muito complicado, no entanto nunca desistir de continuar estudando, até que um dia lembrei de o quanto era nostálgico e funcional selecionar os elementos do DOM com seu ‘$’ então pra recordar fiz um script simples para selecionar elementos iguais, onde você os selecionava usando jQuery, por isso gostaria de reconhecer os seus benefícios meu velho jQuery de guerra lhe faço essa singela homenagem.
 
-![JS](https://github.com/MarcosArthur/SelectDom/master/layout-post.jpg)
+![JS](https://raw.githubusercontent.com/MarcosArthur/SelectDom/master/layout-post.jpg)
